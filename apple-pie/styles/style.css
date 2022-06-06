@@ -58,3 +58,10 @@ section-3> p{
     text-align: center;
     font-size: 100px;
 }
+
+section-4 > p{
+    text-align: center;
+    font-size: 40px;
+    margin: 80px 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
