@@ -1,5 +1,5 @@
 h1{
-    background-image: url(/apple-pie/images/apple-pie.jpg);
+    background-image: url(/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg);
     color: #ffffff;
     padding: 275px;
     text-align: center;
@@ -49,7 +49,7 @@ ol > li{
     margin-bottom: 30px;;
 }
 section-4> p{
-    background-image: url(/french-soup/images/soup.jpg);
+    background-image: url(/lab-css-recipes-clone/french-soup/images/soup.jpg);
     color: white;
     padding: 275px;
     text-align: center;
