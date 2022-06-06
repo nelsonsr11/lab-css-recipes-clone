@@ -5,7 +5,6 @@ h1{
     text-align: center;
     font-size: 100px;
 }
-
 section-1 > p{
     text-align: center;
     font-size: 40px;
@@ -13,14 +12,12 @@ section-1 > p{
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-
 .receipe-info{
    margin-left: 0vw;
    display: flex;
    justify-content: center;
    padding: 50px;
 }
-
 .divisor-line{
     border-top: 7px solid;
     margin-left: 100px;
@@ -28,14 +25,12 @@ section-1 > p{
     border-radius: 60px;
     color: grey;
 }
-
 h2{
     margin-left: 100px;
     margin-top: 50px;
     font-size: 50px;
     font-weight: bolder;
 }
-
 ul{
     list-style: "- ";
     margin-left: 105px;
@@ -49,17 +44,16 @@ ol > li{
     font-family: 'Courier New', Courier, monospace;
     font-weight:lighter;
     padding-bottom: 10px;
+    margin-right: 100px;
 }
-
-section-3> p{
+section-4> p{
     background-image: url(/french-soup/images/soup.jpg);
     color: white;
     padding: 275px;
     text-align: center;
     font-size: 100px;
 }
-
-section-4 > p{
+section-5 > p{
     text-align: center;
     font-size: 40px;
     margin: 80px 80px;
